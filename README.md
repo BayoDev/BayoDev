@@ -11,6 +11,12 @@ I'm looking for interesting projects to work on!:eyes:
 - :man_technologist: HTML,CSS,JavaScript
 - :books: Always learning...
 
+## Account Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BayoDev&count_private=true&theme=tokyonight&showicons=true)]()
+<br>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BayoDev&langs_count=5&theme=tokyonight)]()
+
 ## Contacts
 
 - :email: Email: giulioventuriniwork@gmail.com
