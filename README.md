@@ -8,7 +8,8 @@ I'm looking for interesting projects to work on!:eyes:
 ## Knoweldge
 - :snake: Python
 - :coffee: Java
-- :man_technologist: HTML,CSS,JavaScript
+- :man_technologist: HTML, CSS, JavaScript
+- :computer: PHP, SQL
 - :books: Always learning...
 
 ## Account Stats
