@@ -1,22 +1,9 @@
 <div align="center"><h1>Giulio Venturini</h1></div>
 
+I'm interested in anything CS related and I have a special interest for retrocomputing.
+In this account you can find both modern projects and retrocomputing projects.
 
-I love coding and anything CS related, dont esitate to contact me for any information on my projects!
-
-I'm looking for interesting projects to work on!:eyes:
-
-## Knoweldge
-- :snake: Python
-- :coffee: Java
-- :man_technologist: HTML, CSS, JavaScript
-- :computer: PHP, SQL
-- :books: Always learning...
-
-## Account Stats
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=BayoDev&count_private=true&theme=tokyonight&showicons=true)]()
-<br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BayoDev&langs_count=5&theme=tokyonight)]()
+I have a [youtube channel](https://www.youtube.com/channel/UCa5Pyv9BX-S22ac6Y3bxm3g) where I post some retrocomputing stuff that I've done.
 
 ## Contacts
 
